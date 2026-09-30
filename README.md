@@ -44,5 +44,3 @@ A modern, responsive, and clean Login Screen UI built for Android applications. 
 3. Select **Open an Existing Project** and navigate to the cloned directory.
 4. Sync the Gradle files and press **Run** `(Shift + F10)` on an emulator or physical device.
 
-```
-
