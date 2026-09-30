@@ -33,6 +33,7 @@ A modern, responsive, and clean Login Screen UI built for Android applications. 
 <img width="702" height="1600" alt="image" src="https://github.com/user-attachments/assets/5205af59-09ed-4c58-8c54-a815d4b8521e" />
 
 **After entering credentials:**
+
 <img width="702" height="1600" alt="image" src="https://github.com/user-attachments/assets/d549358d-bc5b-4836-ab71-d627aa0bf241" />
 
 
