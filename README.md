@@ -30,7 +30,8 @@ A modern, responsive, and clean Login Screen UI built for Android applications. 
 
 | Login Screen UI |
 | :---: |
-| *(Add your screenshot here)* |
+<img width="367" height="657" alt="image" src="https://github.com/user-attachments/assets/cdb26ea5-6db2-43de-bc75-1fea343e835d" />
+
 
 ---
 
@@ -38,10 +39,10 @@ A modern, responsive, and clean Login Screen UI built for Android applications. 
 
 1. **Clone the repository:**
    ```bash
-   git clone (https://github.com/your-username/your-repo-name.git)
-
-```
-
+   git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
 2. Open **Android Studio**.
 3. Select **Open an Existing Project** and navigate to the cloned directory.
 4. Sync the Gradle files and press **Run** `(Shift + F10)` on an emulator or physical device.
+
+```
+
